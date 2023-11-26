@@ -1,0 +1,3 @@
+[submodule "aws-codebuild-samples"]
+	path = aws-codebuild-samples
+	url = https://github.com/TokioXx/aws-codebuild-samples
